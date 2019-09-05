@@ -15,10 +15,15 @@ Pytorch版mfnet共支持四种数据输入格式。**图片，帧，视频采用
 
 
 ### Preparation
+
 data(ucf101,Kinetics...)
+
 pytorch>1.0
+
 opencv
+
 numpy
+
 nvvl
 
 
